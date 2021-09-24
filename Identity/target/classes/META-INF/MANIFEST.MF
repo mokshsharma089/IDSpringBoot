@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: mokshsharma
+Build-Jdk: 16.0.2
+Implementation-Title: Identity
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.Identity
+Implementation-URL: https://spring.io/projects/spring-boot/A
+Created-By: Maven Integration for Eclipse
+
